@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\yemek_tarifleri_sitem\\yemekduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|solutionrelative:yemek_tarifleri_sitem\\yemekduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ataberk\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\TarifOnerDetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ataberk\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\MesajDetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|c:\\users\\ataberk\\desktop\\all_recipes\\yemek_tarifleri_sitem\\yemek_tarifleri_sitem\\gununyemegi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|solutionrelative:yemek_tarifleri_sitem\\gununyemegi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\yemek_tarifleri_sitem\\gununyemegiadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|solutionrelative:yemek_tarifleri_sitem\\gununyemegiadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\yemek_tarifleri_sitem\\yemekduzenle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|solutionrelative:yemek_tarifleri_sitem\\yemekduzenle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\yemek_tarifleri_sitem\\gununyemegi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02E638B-8F86-4622-950C-21C618D3DCB2}|Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem.csproj|solutionrelative:yemek_tarifleri_sitem\\gununyemegi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarifOnerDetay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ataberk\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\TarifOnerDetay.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\TarifOnerDetay.aspx.cs",
+              "ToolTip": "C:\\Users\\Ataberk\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\TarifOnerDetay.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\TarifOnerDetay.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAjwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:59:08.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MesajDetay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ataberk\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\MesajDetay.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\MesajDetay.aspx.cs",
+              "ToolTip": "C:\\Users\\Ataberk\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\MesajDetay.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Asp.NET_yemek (Y)\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\MesajDetay.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:58:59.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GununYemegi.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\GununYemegi.aspx.cs",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri_Sitem\\GununYemegi.aspx.cs",
+              "ToolTip": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\GununYemegi.aspx.cs",
+              "RelativeToolTip": "Yemek_Tarifleri_Sitem\\GununYemegi.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:30:38.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GununYemegi.aspx",
+              "DocumentMoniker": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\GununYemegi.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri_Sitem\\GununYemegi.aspx",
+              "ToolTip": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\GununYemegi.aspx",
+              "RelativeToolTip": "Yemek_Tarifleri_Sitem\\GununYemegi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T22:29:12.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YemekDuzenle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\YemekDuzenle.aspx.cs",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri_Sitem\\YemekDuzenle.aspx.cs",
+              "ToolTip": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\YemekDuzenle.aspx.cs",
+              "RelativeToolTip": "Yemek_Tarifleri_Sitem\\YemekDuzenle.aspx.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAjwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:28:12.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YemekDuzenle.aspx",
+              "DocumentMoniker": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\YemekDuzenle.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri_Sitem\\YemekDuzenle.aspx",
+              "ToolTip": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\YemekDuzenle.aspx",
+              "RelativeToolTip": "Yemek_Tarifleri_Sitem\\YemekDuzenle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T22:26:35.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GununYemegiAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\GununYemegiAdmin.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri_Sitem\\GununYemegiAdmin.aspx",
+              "ToolTip": "C:\\Users\\Ataberk\\Desktop\\All_Recipes\\Yemek_Tarifleri_Sitem\\Yemek_Tarifleri_Sitem\\GununYemegiAdmin.aspx",
+              "RelativeToolTip": "Yemek_Tarifleri_Sitem\\GununYemegiAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T22:25:54.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
